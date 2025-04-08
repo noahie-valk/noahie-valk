@@ -25,3 +25,5 @@ If you'd like to reach out to me directly, you can message me on Discord (user: 
 I'd love to hear from you, so feel free to send a message
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mint,)](https://skillicons.dev)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/67f595faf82d4683abdab614?variant=dark)](https://roadmap.sh)
